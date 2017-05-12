@@ -1,6 +1,15 @@
 body {
   font-family: sans-serif;
 }
-img {
-  float: left;
+
+.jumbotron {
+  margin: 12px;
+  border: 4px;
+  padding: 4px;
+}
+.dog{
+  text-align: center;
+}
+.halloween {
+  text-align: center;
 }
