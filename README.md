@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a website I will use to store my coding work.  It will be available to the public to demonstrate the skills I have developed and my capabilities as a developer. _
+_This is a website I will use to store my coding work.  It will be available to the public to demonstrate the skills I have developed and my capabilities as a developer._
 
 ## Setup/Installation Requirements
 
